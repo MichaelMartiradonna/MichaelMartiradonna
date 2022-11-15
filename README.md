@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MichaelMartiradonna
+- 👀 I’m interested in networking, linux, scripting, & programming
+- 🌱 I’m currently learning AWS Cloud
